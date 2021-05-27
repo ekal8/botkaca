@@ -8,7 +8,7 @@ LOCAL = Local({
     'LEECH_LIST_MESSAGE_HEADER' : '<b>Leech Status</b>',
     'LEECH_LIST_FORMAT' : 'Name: <code>{name}</code>\nStatus: {status}\nID: <code>{gid}</code>\n\n',
     'ARIA2_CHECKING_LINK' : "Checking...",
-    'ARIA2_DOWNLOAD_STATUS' : "Downloading : <code>{name}</code>\n[{block}] {percentage}\nSize : {total_size}\n{current} Of {total_size}\n📥 : {download_speed} / 📤 : {upload_speed}\nSeeder : {seeder}\nETA : {eta}",
+    'ARIA2_DOWNLOAD_STATUS' : "Downloading : <code>{name}</code>\n[{block}] {percentage}\nSize : {total_size}\n📥 : {download_speed} / 📤 : {upload_speed}\nSeeder : {seeder}\nETA : {eta}",
     'ARIA2_DOWNLOAD_SUCCESS' : 'File downloaded : <code>{name}</code>',
     'ARIA2_DOWNLOAD_CANCELED' : 'Download canceled : <code>{name}</code>',
     'ARIA2_DEAD_LINK' : 'Download auto canceled : <code>{name}</code>\nYour Torrent/Link is Dead.',
